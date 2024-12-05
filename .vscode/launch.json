@@ -13,8 +13,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/mikaelaflorendo/Desktop/Practice",
-      "program": "/Users/mikaelaflorendo/Desktop/Practice/build/Debug/outDebug"
+      "cwd": "/Users/mikaelaflorendo/Desktop/Practice/.git",
+      "program": "/Users/mikaelaflorendo/Desktop/Practice/.git/build/Debug/outDebug"
     },
     {
       "name": "C/C++: clang build and debug active file",
