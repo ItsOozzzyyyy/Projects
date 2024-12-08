@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/mikaelaflorendo/Desktop/loop/Projects/.vscode",
-      "program": "/Users/mikaelaflorendo/Desktop/loop/Projects/.vscode/build/Debug/outDebug"
+      "cwd": "/Users/mikaelaflorendo/Desktop",
+      "program": "/Users/mikaelaflorendo/Desktop/build/Debug/outDebug"
     }
   ]
 }
